@@ -1,4 +1,4 @@
-
+(This file was created with IA for after improvement of this code so is more like a reference for myself later) 
 # QUESTIONÁRIO ESCALA DA MOTIVAÇÃO EM PYTHON
 
 Este programa irá exibir um questionário fraseológico direcionado a estudantes da Educação Básica, com o objetivo de fazer um levantameto de fatores extrínsecos e intrínsecos que afetam a motivação de estudar dos jovens.
