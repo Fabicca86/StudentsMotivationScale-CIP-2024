@@ -31,6 +31,4 @@ perguntas = [
 'Eu só estudo porque meus pais mandam: ',
 'Eu estudo por obrigação: ' 
 ]
-#aqui sempre vale 1 ponto, nunca 3 e as vezes 2
- 
-#valor maximo 102 e minimo 34, quanto maior a pontuação mais autotivado o aluno 
+#aqui sempre vale 1 ponto, nunca 3 e as vezes 2 
